@@ -1,7 +1,8 @@
-#IMAGE FROM PROJECT
+# IMAGE FROM PROJECT
+
 ![ImagemprojetoClone-Tesla](https://user-images.githubusercontent.com/117778237/204936017-f520fb48-54e8-4c7b-8f6e-5677cf2ee5a7.PNG)
 
-##GIF FROM PROJECT
+## GIF FROM PROJECT
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/117778237/204939219-2c237ff0-e402-48c7-851e-468435440f0e.gif)
 
