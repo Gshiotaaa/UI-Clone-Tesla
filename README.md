@@ -1,3 +1,5 @@
+![ImagemprojetoClone-Tesla](https://user-images.githubusercontent.com/117778237/204936017-f520fb48-54e8-4c7b-8f6e-5677cf2ee5a7.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
